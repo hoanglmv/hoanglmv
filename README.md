@@ -9,8 +9,6 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Studying **Computer Science / AI**
-- 🔬 Currently researching **Verbal Reinforcement Learning for Telecom Network Optimization**
-- 🤖 Interested in **Reinforcement Learning**, **LLMs**, **Computer Vision**, and **IoT**
 - 📫 Reach me at **hoanglmv@gmail.com**
 
 ---
@@ -43,12 +41,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hoanglmv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglmv&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
