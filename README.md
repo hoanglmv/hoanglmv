@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Hoang 👋</h1>
 
-<p align="center">
-  <b>AI Engineer & Researcher</b> from Vietnam 🇻🇳
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
